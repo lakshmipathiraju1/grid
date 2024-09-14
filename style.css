@@ -6,7 +6,7 @@
 }
 
 .hero-left{
-  background-color: red;
+  background-color: rgb(226, 19, 19);
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -27,5 +27,13 @@
     background-color: gold;
   
   }
+}
+
+@media(min-width:768px){
+
+  .hero-right{
+    background-color: black;
+  }
+
 }
 
